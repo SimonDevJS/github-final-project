@@ -1,22 +1,19 @@
 ---
-## 🤝 Contribuciones
 
-¡Nos encanta recibir contribuciones de todo tipo! Si quieres ayudar a mejorar este proyecto, aquí te explicamos cómo puedes hacerlo:
+# ¿Quieres contribuir? ¡Gracias!
 
-* **Informes de Errores (Bug Reports):** ¿Encontraste un error? ¡Repórtalo! Una descripción clara y los pasos para reproducirlo nos ayudarán mucho.
-* **Correcciones de Errores (Bug Fixes):** Si ya sabes cómo solucionar un error, no dudes en enviar un pull request con tu corrección.
-* **Mejoras y Nuevas Funcionalidades (Features & Enhancements):** ¿Tienes una idea para una nueva funcionalidad o cómo mejorar una existente? ¡Compártela! Nos encantaría escuchar tus propuestas. Puedes abrir una "Issue" para discutirla primero.
-* **Mejoras en la Documentación (Documentation Improvements):** La documentación clara es clave. Cualquier sugerencia o corrección para hacerla más comprensible es muy bienvenida.
-* **Ideas y Feedback General:** Cualquier otra idea, sugerencia o feedback que tengas sobre el proyecto es valioso para nosotros.
+¡Qué bueno que quieras ayudar! Agradecemos mucho todas las contribuciones.
 
-### ¿Cómo Contribuir?
+## ¿Cómo puedes ayudar?
 
-1.  Haz un **"fork"** de este repositorio.
-2.  Crea una **nueva rama** (`git checkout -b tu-contribucion`).
-3.  Realiza tus cambios y **haz "commit"** de ellos.
-4.  Sube tus cambios a tu repositorio (`git push origin tu-contribucion`).
-5.  Abre un **"Pull Request" (PR)** desde tu rama hacia la rama `main` de este repositorio, describiendo tus cambios.
+* **Reporta errores:** Si algo no funciona bien, por favor, avísanos. Crea un "Issue" en la pestaña de GitHub y cuéntanos qué pasó.
 
-¡Gracias por tu interés y esfuerzo en mejorar el proyecto!
+* **Sugiere ideas:** Si tienes una idea para mejorar el proyecto, también puedes crear un "Issue" para describirla.
 
----
+* **Escribe código:** Si quieres hacer cambios en el código, sigue estos pasos:
+    1.  Haz un "Fork" del proyecto a tu cuenta.
+    2.  Crea una nueva rama para tus cambios.
+    3.  Haz los cambios en tu copia.
+    4.  Envíanos un "Pull Request".
+
+Revisaremos tu propuesta lo antes posible. ¡Gracias por tu ayuda!
