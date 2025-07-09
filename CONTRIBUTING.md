@@ -4,7 +4,7 @@
 
 ¡Qué bueno que quieras ayudar! Agradecemos mucho todas las contribuciones.
 
-## ¿Cómo puedes ayudar?
+# ¿Cómo puedes ayudar?
 
 * **Reporta errores:** Si algo no funciona bien, por favor, avísanos. Crea un "Issue" en la pestaña de GitHub y cuéntanos qué pasó.
 
